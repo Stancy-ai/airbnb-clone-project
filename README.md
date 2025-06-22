@@ -14,7 +14,13 @@ Makes sure the final product meets customer requirements
 Creates user journeys for the best user experience and highest conversion rates
 4. Software architect: Designs a high-level software architecture and Selects appropriate tools and platforms to implement the product vision
 Sets up code quality standards and performs code reviews.
-5. Software developer: Engineers and stabilizes the product and Solves any technical problems emerging during the development lifecycle.
+5. Bsckend Developer: build APIs and manage the database
 6. Quality assurance (QA) engineer: Makes sure an application performs according to requirements and Spots functional and non-functional defects.
 7. DevOps engineer: Facilitates cooperation between development and operations teams and Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery.
+
+### Technology Stack
+1. Django: a web framework for building RESTful APIs.
+2. MySQL: Database management
+3. GraphQL: Fetching data from backenf
+4. CI/CD pipelines: For setting up continous integration and continous deployments.
 
